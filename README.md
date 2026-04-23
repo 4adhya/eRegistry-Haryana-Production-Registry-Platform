@@ -9,7 +9,6 @@ This platform is built to streamline registration-related processes through a se
 
 ## Features
 
-* Secure login and role-based access
 * Property workflow handling
 * Document submission and tracking
 * Backend administration panel

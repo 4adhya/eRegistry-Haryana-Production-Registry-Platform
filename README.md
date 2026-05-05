@@ -24,7 +24,7 @@ This platform is built to streamline registration-related processes through a se
 ## My Role
 
 Owner and Technical Lead
-Handled architecture, deployment, customization, server management, and production maintenance.
+Handled architecture, deployment, customization, server management, and production maintenance
 
 ## Note
 
